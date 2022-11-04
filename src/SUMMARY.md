@@ -28,5 +28,6 @@
     * [函数调用逻辑](re_yt_output/yt_ads_filter/func_call.md)
     * [常见url](re_yt_output/yt_ads_filter/common_url.md)
 * [逆向YouTube总结](re_yt_summary/README.md)
+* [子教程](sub_book/README.md)
 * [附录](appendix/README.md)
   * [参考资料](appendix/reference.md)

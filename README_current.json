@@ -1,7 +1,7 @@
 {
-  "latestVersion": "v0.7",
-  "lastUpdate": "20221027",
+  "latestVersion": "v0.8",
+  "lastUpdate": "20221104",
   "gitRepoName": "ios_re_youtube_reverse",
   "bookName": "iOS逆向开发：YouTube逆向",
-  "bookDescription": "以YouTube逆向介绍典型的iOS逆向的流程。先是YouTube逆向概述，再是详细介绍iOS的YouTube逆向的详细过程，包括砸壳ipa以及安装ipa、静态分析的导出头文件、IDA分析代码逻辑、动态调试的分析界面元素和MonkeyDev调试，其中界面分析用Reveal、Cycript；MonkeyDev调试典型逻辑是，猜测类和函数、写hook代码、加断点调试；期间涉及到恢复符号表、Charles抓包；然后介绍逆向的产出和相关总结；产出包括app内部逻辑和广告过滤相关内容。"
+  "bookDescription": "以YouTube逆向介绍典型的iOS逆向的流程。先是YouTube逆向概述，再是详细介绍iOS的YouTube逆向的详细过程，包括砸壳ipa以及安装ipa、静态分析的导出头文件、IDA分析代码逻辑、动态调试的分析界面元素和MonkeyDev调试，其中界面分析用Reveal、Cycript；MonkeyDev调试典型逻辑是，猜测类和函数、写hook代码、加断点调试；期间涉及到恢复符号表、Charles抓包；然后介绍逆向的产出和相关总结；产出包括app内部逻辑和广告过滤相关内容；以及相关子教程。"
 }
